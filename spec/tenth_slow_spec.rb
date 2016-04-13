@@ -12,4 +12,12 @@ RSpec.describe "Tenth slow spec" do
   it "runs_slowly" do
     sleep 15
   end
+
+  it "runs_slowly" do
+    sleep 40
+  end
+
+  it "runs_slowly" do
+    sleep 20
+  end
 end
