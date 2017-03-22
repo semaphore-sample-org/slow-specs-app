@@ -1,4 +1,4 @@
-BASE_SPEED = 0.25
+BASE_SPEED = 0.15
 
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|
