@@ -14,6 +14,6 @@ RSpec.describe "Ninth slow spec" do
   end
 
   it "runs_slowly" do
-    sleep BASE_SPEED * 120
+    sleep BASE_SPEED * 60
   end
 end
