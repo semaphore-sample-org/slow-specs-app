@@ -6,22 +6,22 @@ RSpec.describe "Fifth slow spec" do
   end
 
   it "runs_slowly" do
-    sleep 1
+    sleep 10
   end
 
   it "runs_slowly" do
-    sleep 1
+    sleep 10
   end
 
   it "runs_slowly" do
-    sleep 1
+    sleep 10
   end
 
   it "runs_slowly" do
-    sleep 1
+    sleep 10
   end
 
   it "runs_slowly" do
-    sleep 1
+    sleep 10
   end
 end

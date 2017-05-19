@@ -2,13 +2,14 @@ require "rails_helper"
 
 RSpec.describe "Seventh slow spec" do
   it "runs_slowly" do
-    sleep 1
+    sleep 60
   end
 
   it "runs_slowly" do
-    sleep 1
+    sleep 30
   end
 
   it "runs_slowly" do
+    sleep 30
   end
 end
