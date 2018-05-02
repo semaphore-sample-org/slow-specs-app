@@ -1,0 +1,3 @@
+[submodule "semaphore-scripts"]
+	path = semaphore-scripts
+	url = git@github.com:renderedtext/semaphore-scripts.git
